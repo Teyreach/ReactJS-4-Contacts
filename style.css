@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #3867d6;
+  background-color: #d1d8e0;
   font-family: 'Lato', sans-serif;
 
 }
@@ -19,7 +19,7 @@ ul {
 }
 
 .contactForm {
-  background: #382F2B;
+  background: #aaa69d;
   padding: 20px;
 }
 input,
@@ -28,7 +28,7 @@ button {
   margin: 5px 5px;
 }
 button {
-  background-color: #000;
+  background-color: #70a1ff;
   color: #fff;
   display: inline;
   margin-left: 15px;
@@ -38,7 +38,9 @@ button {
 .contactItem {
   padding: 10px;
   margin: 5px 0;
-  background-color: #4b6584;
+  background-color: #222f3e;
+  color: #fff;
+  
 }
 a {
   text-decoration: none;
@@ -49,3 +51,7 @@ a {
   float: left;
   width: 100px;
 }
+.contactEmail{
+	color: #fff;
+}
+	
