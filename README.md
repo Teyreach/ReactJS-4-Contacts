@@ -1,2 +1,2 @@
-# zadanie14_5
-https://teyreach.github.io/zadanie14_5/
+# ReactJS-4-Contacts
+https://teyreach.github.io/ReactJS-4-Contacts/
